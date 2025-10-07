@@ -1,0 +1,34 @@
+ it’s October 6 and I decided to reset restart so first I was just making a website talking about the different tags and the different things to do with the site but I change it up and I made it into  a about me site so I did a gif background which looks really cool in my opinion and then I did some headings with color and different fonts and I also did tag P and I did HR for the lines, but I’m not sure what happened, but I messed up somehow and affected the launching progress which is stopped working completely, and I was freaking out. I was in panic, but luckily, I was able to figure it out and I just continue on with the introduction for the page and then I wanted to add like buttons to link to different pages so it’s not a long long page which I don’t find that to be very pretty so I decided to do it like that link to two pages one about me and the other one my likes and I’m just planning to add pictures and add other facts in people and things I like to do in the same thing goes for my dislikes i’m not gonna lie this assignment confuse me by a large amount. Not sure why it confuse me so much but I was struggling. 
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <me ta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSC140</title>
+    <link rel="stylesheet" href="cssc104css.css">
+    <link rel="my likes" href="my likes.html">
+    <link rel="all about me" href="all about me.html">
+</head>
+</html>
+<body style="background-image: url('3373483.gif');"></body>
+
+<h1>All About Me</h1>
+
+    <h2>Hello this is my page where ill tell you all about me!</h2>
+
+    <hr>
+
+  <h3>Hi there! My name is Xiomara, and I’m so excited you’re here. This page is a little window into who I am, the things I enjoy, and what inspires me. I love sharing my interests, ideas, and the things that make me, me. So take a look around, get to know me better, and enjoy learning a bit about my world!</h3>
+<p>I’m a 19-year-old college student attending the University of Advancing Technology online. This is my first year, and I’m so excited to begin this new journey! I live in Georgia — it’s a super quiet place, but I really enjoy the peace and calm here. On this page, I’ll be talking about my likes and dislikes, some of the 
+  things I enjoy doing, and a few of my favorite hobbies. You’ll also get to learn some cool details about me
+   that I think everyone should know. I’m so glad you’re here and can’t wait to share more about who I am!</p>
+
+
+<div class="navbar">
+  <a class="active" href="#">Home</a> 
+  <a linkrel="my likes" href="my likes.html">my likes</a> 
+  <a linkrel="all about me" href="all about me.html">all about me</a>  
+
+
+
+
